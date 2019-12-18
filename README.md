@@ -1,1 +1,3 @@
-# Multi-instance code.
+本项目下包含两部分：
+1）Jar压缩包：本人目前所有的java代码
+2）Code：目前包含工具类代码
